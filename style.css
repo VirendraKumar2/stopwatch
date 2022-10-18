@@ -1,0 +1,15 @@
+#start{
+    color: green;
+    margin: 3px solid black;
+    
+    
+}
+#pause{
+    color: orange;
+    margin: 3px solid black;
+}
+#stopp{
+    color: red;
+    margin: 3px solid black;
+
+}
